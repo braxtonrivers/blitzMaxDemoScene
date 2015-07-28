@@ -6,8 +6,8 @@
 ' Programtype: Novell server screensaver look-a-like
 ' Use arrow-keys to change speed and length of tail !
 
-Import "bbtype.bmx"
-Import "bbvkey.bmx"
+Import "includes/bbtype.bmx"
+Import "includes/bbvkey.bmx"
 AppTitle ="Novell screensaver"
 
 Graphics 800,600,32															' Sett Grphics mode
