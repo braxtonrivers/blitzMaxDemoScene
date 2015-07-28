@@ -4,7 +4,7 @@ Tested working using BlitzMax 1.50 in August 2015
 
 ### Description
 * Plasma
-[logo]: https://github.com/DannyCork/blitzMaxDemoScene/blob/master/images/plasma.png?raw=true "Plasma effect BlitzMax"
+[logo]: images/plasma.png?raw=true "Plasma effect BlitzMax"
 
 * 
 * Commodore 64 loading/decrunching effect.
