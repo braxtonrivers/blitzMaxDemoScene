@@ -4,7 +4,7 @@ Tested working using BlitzMax 1.50 in August 2015
 
 ### Description
 * Plasma
-[logo]: images/plasma.png?raw=true "Plasma effect BlitzMax"
+[![Plasma effect BlitzMax](images/plasma.png?raw=true)]
 
 * 
 * Commodore 64 loading/decrunching effect.
