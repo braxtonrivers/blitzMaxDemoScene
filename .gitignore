@@ -1,6 +1,7 @@
+.DS_Store
 *.o
+*.app
 *.s
-*.a
-bobs.bmx commodore64Loading.bmx juliaFracalAnimation.bmx novell.bmx plasma.bmx rotozoomer.bmx sineWaves.bmx starsInABox.bmx
-*.DS_Store
-novell.bmx.bak
+*.bak
+.bmx
+
